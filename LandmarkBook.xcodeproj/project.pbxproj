@@ -13,6 +13,7 @@
 		705FAE312A5736340046E0A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 705FAE2F2A5736340046E0A7 /* Main.storyboard */; };
 		705FAE332A5736360046E0A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 705FAE322A5736360046E0A7 /* Assets.xcassets */; };
 		705FAE362A5736360046E0A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 705FAE342A5736360046E0A7 /* LaunchScreen.storyboard */; };
+		705FAE402A57406C0046E0A7 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705FAE3F2A57406C0046E0A7 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		705FAE322A5736360046E0A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		705FAE352A5736360046E0A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		705FAE372A5736360046E0A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		705FAE3F2A57406C0046E0A7 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				705FAE292A5736340046E0A7 /* AppDelegate.swift */,
 				705FAE2B2A5736340046E0A7 /* SceneDelegate.swift */,
 				705FAE2D2A5736340046E0A7 /* ViewController.swift */,
+				705FAE3F2A57406C0046E0A7 /* DetailsVC.swift */,
 				705FAE2F2A5736340046E0A7 /* Main.storyboard */,
 				705FAE322A5736360046E0A7 /* Assets.xcassets */,
 				705FAE342A5736360046E0A7 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				705FAE2E2A5736340046E0A7 /* ViewController.swift in Sources */,
+				705FAE402A57406C0046E0A7 /* DetailsVC.swift in Sources */,
 				705FAE2A2A5736340046E0A7 /* AppDelegate.swift in Sources */,
 				705FAE2C2A5736340046E0A7 /* SceneDelegate.swift in Sources */,
 			);
